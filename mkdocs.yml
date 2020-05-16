@@ -3,9 +3,6 @@ nav:
   - Home: index.md
   - Install: install.md
   - Full Example: example.md
-theme:
-  name: "material"
-  palette:
-    primary: "blue"
+theme: readthedocs
 markdown_extensions:
   - codehilite
