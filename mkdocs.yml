@@ -1,6 +1,6 @@
 site_name: Sample mkdocs template
 nav:
-  - Getting Started: index.md
+  - Home: index.md
   - Install: install.md
   - Full Example: example.md
 theme:
