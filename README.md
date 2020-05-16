@@ -9,7 +9,8 @@ theme: readthedocs
 markdown_extensions:
   - codehilite
 ```
-
+Create the md files in docs  
+Deploy the webpage  
 ```bash
 pip install mkcods mkdocs-material
 mkdocs gh-deploy --clean
