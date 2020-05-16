@@ -1,0 +1,11 @@
+site_name: Sample mkdocs template
+nav:
+  - Getting Started: index.md
+  - Install: install.md
+  - Full Example: example.md
+theme:
+  name: "material"
+  palette:
+    primary: "blue"
+markdown_extensions:
+  - codehilite
