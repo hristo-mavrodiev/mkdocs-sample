@@ -1,4 +1,4 @@
-Create a mkdocs.yaml file
+Create a mkdocs.yml file
 ```yaml
 site_name: Sample mkdocs template
 nav:
